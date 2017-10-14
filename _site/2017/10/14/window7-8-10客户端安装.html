@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+　　<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+　　　　<title>window 7/8/10客户端安装教程</title>
+</head>
+<body>
+
+　　<h2 id="windows-7810客户端安装">windows 7/8/10客户端安装</h2>
+<ol>
+  <li>点击 <a href="http://www.undervineyard.com/ShadowsocksR-4.7.0-windowsOS.7z">ShadowsocksR-4.7.0-windowsOS.7z</a>下载文件，解压到单独的文件夹。</li>
+  <li>双击<code class="highlighter-rouge">ShadowsocksR-dotnet4.0.exe</code>，windows任务栏中若看到小飞机图标，说明客户端打开成功。</li>
+  <li>添加配置参数。右键点击小飞机，“服务器”-&gt;”编辑服务器”-&gt;”添加”。配置参数如下(只有端口和密码不同):<br />
+ <code class="highlighter-rouge">服务器：proxy.undervineyard.com	</code><br />
+ <code class="highlighter-rouge">端口：(与之前发给你参数相同)</code><br />
+ <code class="highlighter-rouge">密码：(与之前发给你参数相同)</code><br />
+ <code class="highlighter-rouge">加密方法：aes-128-ctr</code><br />
+ <code class="highlighter-rouge">协议：auth_aes128_md5</code> <br />
+ <code class="highlighter-rouge">混淆：tls1.2_ticket_auth</code><br />
+ <code class="highlighter-rouge">备注：SSR</code><br />
+ 其它留空即可！</li>
+  <li>右键点击小飞机，”系统代理模式”-&gt;选择”全局模式”。然后，右键点击小飞机，”PAC”-&gt;”更新pac为GFWList”。</li>
+  <li>提示更新成功后，右键点击小飞机，”系统代理模式”-&gt;”pac模式”。</li>
+</ol>
+
+<p><em>P.S. 以上配置针对已经安装chrome和swithyomega插件、导入插件配置文件之后，更换安装shadowsocksR客户端。</em></p>
+
+
+</body>
+</html>
