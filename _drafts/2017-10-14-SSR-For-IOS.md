@@ -46,7 +46,7 @@ title: ShadowsocksR Clint for iOS(Iphone/IPad)
   ![IMG_2101.PNG][2101]
 
 
-   3.点击“连接”右边的开头，运行app。
+   3.点击“连接”右边的开关，运行app。
 
 
 ### Step 4：APP运行之后，桌面上方会出现VPN的标识,此时iphone处于可番茄状态。再次点击开关，APP停止运行,标识会消失。
