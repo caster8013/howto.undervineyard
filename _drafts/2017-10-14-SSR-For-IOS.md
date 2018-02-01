@@ -1,6 +1,6 @@
 ---
 layout: default
-title: iOS上，app安装教程
+title: ShadowsocksR Clint for iOS(Iphone/IPad)
 ---
 ![og.jpg][og]
 

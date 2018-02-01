@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mac OS X客户端安装
+title: ShadowsocksR Clint for Mac OS X
 ---
 ![macos-sierra-update-software-hero.jpg][ms]
 

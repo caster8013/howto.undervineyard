@@ -1,6 +1,6 @@
 ---
 layout: default
-title: android 客户端安装
+title: ShadowsocksR Clint for Android
 ---
 ![147824373313969.jpg][1478]
 

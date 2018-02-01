@@ -1,6 +1,6 @@
 ---
 layout: default
-title: windows xp/7/8/10下，shadowsocksR客户端安装
+title: ShadowsocksR Clint for Windows XP/7/8/10
 ---
 ![freedom][fr]
 ## windows xp/7/8/10客户端安装

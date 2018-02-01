@@ -4,4 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<h1 class="page-heading">shadowsocksR翻墙软件各个平台的客户端配置</h1>
