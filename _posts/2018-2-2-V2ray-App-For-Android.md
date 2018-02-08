@@ -9,7 +9,7 @@ title: V2Ray APP for Android
 
 > Android系统内的V2ray客户端是一个叫作`v2rayNG`的App。它的配置参数不是填写几行字符，而是导入一个有很多参数的配置文件。
 
-### 一、安装Actinium
+### 一、安装 v2rayNG
 
 在手机浏览器中打开本页面，点击 [Android-v2rayNG-v0.3.10-universal][1]，下载安装文件。下载成功之后安装。
 
