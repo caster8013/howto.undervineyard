@@ -18,7 +18,7 @@ title: V2Ray APP for Android
 #### **方法一：**同样在手机浏览器中打开本页面，复制下面的URL:
 
 ```
-http://proxy.undervineyard.com/v2ray-clientside-WS-TLS-Nginx.json
+http://w8.undervineyard.com/v2ray-clientside-WS-TLS-Nginx.json
 ```
 
 打开v2rayNG软件，点触右上角 `+` ，选择`从URL导入自定义配置`。
@@ -36,5 +36,5 @@ http://proxy.undervineyard.com/v2ray-clientside-WS-TLS-Nginx.json
 ### Android系统中v2ray客户端安装结束！
 
 
-[1]:<http://proxy.undervineyard.com/android-v2rayNG-v0.3.10-universal.apk>
-[2]:<http://proxy.undervineyard.com/v2ray-clientside-WS-TLS-Nginx>
+[1]:<http://w8.undervineyard.com/android-v2rayNG-v0.3.10-universal.apk>
+[2]:<http://w8.undervineyard.com/v2ray-clientside-WS-TLS-Nginx>

@@ -36,8 +36,8 @@ swithyomega插件下载完成之后，浏览器提醒你是否安装插件，同
 #### 安装过程结束！
 
 
-[1]:<http://proxy.undervineyard.com/>
-[2]:<http://proxy.undervineyard.com/SwitchyOmega.crx>
-[3]:<http://proxy.undervineyard.com/OmegaOptions.2018.2.1.bak>
-[4]:<http://proxy.undervineyard.com/v2ray-v2.43-windows-64-configured.zip>
-[5]:<http://proxy.undervineyard.com/v2ray-v2.43-windows-32-configured.zip>
+[1]:<http://w8.undervineyard.com/>
+[2]:<http://w8.undervineyard.com/SwitchyOmega.crx>
+[3]:<http://w8.undervineyard.com/OmegaOptions.2018.2.1.bak>
+[4]:<http://w8.undervineyard.com/v2ray-v2.43-windows-64-configured.zip>
+[5]:<http://w8.undervineyard.com/v2ray-v2.43-windows-32-configured.zip>
