@@ -7,7 +7,7 @@ title: V2Ray Client for Mac OS X
 
 > 提醒的话：
 
-> 在苹果系统上，既可以选择`Chrome+v2ray`组合，也可以选择`safari+v2ray`组合。前者需要安装google chrome浏览器（还有swithyomega插件和配置文件）,参考[这里][1]。后者safari浏览器是系统自带，v2ray客户端可以接管系统代理，所以只需要安装v2ray即可。
+> 在苹果系统上，既可以选择`Chrome+v2ray`组合，也可以选择`safari+v2ray`组合。前者需要安装google chrome浏览器（还有switchyomega插件和配置文件）,参考[这里][1]。后者safari浏览器是系统自带，v2ray客户端可以接管系统代理，所以只需要安装v2ray即可。
 
 > 另外提醒，macOS版的SSR与macOS版的v2ray都通过SOCKS5协议与浏览器通信，同样的本地代理端口会因为端口冲突让两个软件都不能工作。建议只运行v2ray一个软件。
 
@@ -39,4 +39,4 @@ macos+config
 ### v2ray客户端安装结束！
 
 [1]:<https://undervineyard.tk/2018/02/01/V2ray-Client-For-Windows.html>
-[2]:<http://w8.undervineyard.com/V2RayX-v0.7.9-MacOS.zip>
+[2]:<http://w8.undervineyard.com/V2RayX-v0.9.1-MacOS.zip>
