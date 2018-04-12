@@ -18,7 +18,7 @@ email: warley8013+github@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
   欢迎来到无墙计划在葡萄园！
 baseurl:  # the subpath of your site, e.g. /blog
-url: "http//undervineyard.tk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://undervineyard.tk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
