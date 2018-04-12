@@ -1,0 +1,30 @@
+---
+layout: default
+title: ShadowsocksR Clint for Mac OS X
+---
+![macos-sierra-update-software-hero.jpg][ms]
+
+## mac osx客户端安装
+
+### Step 1：下载文件[ShadowsocksX-R-v1.3.9-macOS.zip][macos]。
+### Step 2：把解压后的ShadowsocksX-R，拷贝到`应用程序`。
+### Step 3：添加配置参数。`应用程序`中,打开ShadowsocksX-R。点击小飞机图标，"服务器"->"服务器设置"->"+"：
+	
+![Snip20171102_2.png][snip]
+
+### Step 4：点击小飞机，"代理"->选择"从GFW List更新pac"。
+
+![Snip20171102_4.png][1102_4]
+
+### Step 5：右键点击小飞机，"代理"->选择"pac自动模式"。
+
+![Snip20171102_5.png][1102_5]
+
+### Step 6：打开safari，输入www.google.com。如果可以成功打开，说明番茄成功。
+
+
+[macos]:<http://www.undervineyard.com/ShadowsocksX-R-v1.3.9-macOS.zip>
+[ms]:<https://i.loli.net/2017/11/02/59fb27f76d062.jpg>
+[snip]:<https://i.loli.net/2017/11/02/59fb28dc4a916.png>
+[1102_4]:<https://i.loli.net/2017/11/02/59fb2a331081d.png>
+[1102_5]:<https://i.loli.net/2017/11/02/59fb2a332395a.png>
