@@ -38,5 +38,6 @@ macos+config
 
 ### v2ray客户端安装结束！
 
-[1]:<https://undervineyard.tk/2018/02/01/V2ray-Client-For-Windows.html>
+<!-- [1]:<https://undervineyard.tk/2018/02/01/V2ray-Client-For-Windows.html> -->
+[1]:<{{ site.baseurl }}{% post_url 2018-2-1-V2ray-Client-For-Windows %}>
 [2]:<http://w8.undervineyard.com/V2RayX-v0.7.9-MacOS.zip>
