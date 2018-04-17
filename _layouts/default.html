@@ -43,6 +43,12 @@
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <!-- <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
+        {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {%- endif -%}
+        <div class="footer-col footer-col-2">
+          {%- include social.html -%}
+        </div>
       </footer>
     </div>
 

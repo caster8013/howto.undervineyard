@@ -21,4 +21,4 @@ title: How to install signal on Android/Iphone?
 
 #### 安装结束！
 
-[1]:<http://w8.undervineyard.com/Signal-website-release-4.15.5.apk>
+[1]:<http://w8.undervineyard.com/Signal-website-release-4.17.5.apk>

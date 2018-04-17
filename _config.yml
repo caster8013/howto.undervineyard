@@ -19,9 +19,12 @@ description:  # this means to ignore newlines until "baseurl:"
   欢迎来到无墙计划在葡萄园！
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://undervineyard.tk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
-
+# show_excerpts: true
+# show_downloads: true
+# google_analytics: 
+# twitter_username: cier
+# github_username:  cier
+# youtube_username: cier
 # Build settings
 markdown: kramdown
 # theme: minima
